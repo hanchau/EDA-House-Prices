@@ -224,5 +224,3 @@
 - [House Price Prediction: Dejavu23](https://www.kaggle.com/code/dejavu23/house-prices-eda-to-ml-beginner/notebook)
 - [House Price Prediction: Ekami66](https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook)
 
-
-
