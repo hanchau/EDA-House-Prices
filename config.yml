@@ -34,3 +34,6 @@ continueous_feat:
   - MiscVal
   - MoSold
   - YrSold
+
+target_feat: 
+  - SalePrice
