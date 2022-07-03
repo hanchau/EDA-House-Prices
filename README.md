@@ -2,6 +2,8 @@
     The purpose of the EDA is to get insights into the features of House Prices Data. The EDA should include cleaning the features, putting them in proper formats and asking pertinent questions. At the end of the EDA, one should be left with proper actionable insights i.e. Insights which can help the Data Scientist on making proper judgements regarding building the ML model.
 
 ### How?
+* Understand the Problem Statement - Done
+  * House prices vary as per various features
 * Give data a preliminary look - Done
 * List down all the features - Done
 * Look at the types of different features - categorical, continuous - Done
@@ -13,20 +15,20 @@
 
 * Club the similar features into groups - So that cleaning, and further processing gets easier. - Done
 * Check the distribution of Target Variable - Done
-  * Target vs Samples 2-D graph
+  * Target vs Samples 2-D graph -
 * Check the skewness of the features - Done
   * Distribution of feature values across samples
 * Implement the ‘Filling Missing Values’ strategy for all the groups of features - Done
 * Check the correlation of the features with the Target Variable - Done
-  * Plot the Feature-Target (x-y) points on a 2-D plane
-  * List down the highly correlated features
-  * Articulate all the plots and distributions
-  * Suggest ways to use that distribution in building a model
+  * Plot the Feature-Target (x-y) points on a 2-D plane - Done
+  * List down the highly correlated features - Done
+  * Articulate all the plots and distributions - Done
+  * Suggest ways to use that distribution in building a model [ Pending ]
 
 * Curate the features - 
-  * Remove the Unnecessary OR Redundant features - name, etc
-  * Skip the complex features for the Next Iteration
-  * Features which needs to be grouped into classes - age, dates, etc
+  * Remove the Unnecessary OR Redundant features - name, id, etc [ Pending ] 
+  * Skip the complex features for the Next Iteration - 
+  * Features which needs to be grouped into classes - age, dates, etc -
 
 
 
@@ -223,4 +225,5 @@
 - [House Price Prediction: Siddhesh Pujari](https://www.kaggle.com/code/siddheshpujari/eda-and-prediction-of-house-price/notebook)
 - [House Price Prediction: Dejavu23](https://www.kaggle.com/code/dejavu23/house-prices-eda-to-ml-beginner/notebook)
 - [House Price Prediction: Ekami66](https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook)
+- [House Price Prediction: dgawlik](https://www.kaggle.com/code/dgawlik/house-prices-eda/notebook)
 

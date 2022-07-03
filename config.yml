@@ -37,3 +37,6 @@ continueous_feat:
 
 target_feat: 
   - SalePrice
+
+unnecessary_feat:
+  - Id
