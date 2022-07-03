@@ -1,5 +1,8 @@
 ### Why?
-    The purpose of the EDA is to get insights into the features of House Prices Data. The EDA should include cleaning the features, putting them in proper formats and asking pertinent questions. At the end of the EDA, one should be left with proper actionable insights i.e. Insights which can help the Data Scientist on making proper judgements regarding building the ML model.
+    The purpose of the EDA is to get insights into the features of House Prices Data. 
+    The EDA should include cleaning the features, putting them in proper formats and asking pertinent questions. 
+    At the end of the EDA, one should be left with proper actionable insights.
+    Insights which can help the Data Scientist on making proper judgements regarding building the ML model.
 
 ### How?
 * Understand the Problem Statement - Done
@@ -226,4 +229,4 @@
 - [House Price Prediction: Dejavu23](https://www.kaggle.com/code/dejavu23/house-prices-eda-to-ml-beginner/notebook)
 - [House Price Prediction: Ekami66](https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook)
 - [House Price Prediction: dgawlik](https://www.kaggle.com/code/dgawlik/house-prices-eda/notebook)
-
+- [MSC Neuromagin: 10dotarb](https://github.com/10dotarb/MSc-NeuroImaging)
