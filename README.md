@@ -1,8 +1,35 @@
+
+
 ### Why?
     The purpose of the EDA is to get insights into the features of House Prices Data. 
     The EDA should include cleaning the features, putting them in proper formats and asking pertinent questions. 
     At the end of the EDA, one should be left with proper actionable insights.
     Insights which can help the Data Scientist on making proper judgements regarding building the ML model.
+
+
+##### RUN Instructions
+- Update the Paths in the First Cell
+   
+    PWD = <your/working/directory>
+    TRAIN_DATA = <relative/path/to/train.csv>
+    TEST_DATA = <relative/path/to/test.csv>
+    CONFIG = <relative/path/to/config.yml>
+  
+- Creat a new virtual env, install dependencies
+
+    python3 -m venv spn
+    pip install -r requirements.txt
+
+- Run on browser
+
+    jupyter-notebook
+  
+- Go to [notebook](http://localhost:8890/tree)
+  
+- Run on VS Code
+  - Install the kernels and plugins for ipython and Jupyter Notebook
+- Open the notebook - house_prices_eda.ipynb
+
 
 ### How?
 * Understand the Problem Statement - Done
