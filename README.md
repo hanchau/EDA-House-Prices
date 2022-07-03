@@ -8,27 +8,23 @@
 
 
 ##### RUN Instructions
-- Update the Paths in the First Cell
-   
+###### Update the Paths in the First Cell
     PWD = <your/working/directory>
     TRAIN_DATA = <relative/path/to/train.csv>
     TEST_DATA = <relative/path/to/test.csv>
     CONFIG = <relative/path/to/config.yml>
   
-- Creat a new virtual env, install dependencies
-
+###### Creat a new virtual env, install dependencies
     python3 -m venv spn
     pip install -r requirements.txt
 
-- Run on browser
-
+###### Run on browser
     jupyter-notebook
-  
-- Go to [notebook](http://localhost:8890/tree)
-  
-- Run on VS Code
-  - Install the kernels and plugins for ipython and Jupyter Notebook
-- Open the notebook - house_prices_eda.ipynb
+    Go to [notebook](http://localhost:8890/tree)
+
+###### Run on VS Code
+    Install the kernels and plugins for ipython and Jupyter Notebook
+    Open the notebook - house_prices_eda.ipynb
 
 
 ### How?
